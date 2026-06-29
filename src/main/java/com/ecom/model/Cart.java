@@ -31,7 +31,7 @@ public class Cart {
 	private Integer quantity;
 	
 	@Transient
-	private Double totalPrice;
+	private Double SumofPrice;
 	
 	@Transient
 	private Double totalOrderPrice;
